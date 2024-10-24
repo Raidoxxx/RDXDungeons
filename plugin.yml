@@ -1,0 +1,7 @@
+name: RDXDungeons
+version: 0.0.1
+api:
+  - 5.0.0
+author: Raidoxx
+main: Dungeons\Main
+description: A plugin for pocketmine that adds dungeons to the game.
